@@ -1,0 +1,534 @@
+body{
+	
+	margin: 0px auto;
+	padding: auto;
+	
+}
+
+.up{
+	background-color: white;
+	width: 1270px;
+	height: 100px;
+}
+
+.up1 h1{
+	font: bold;
+	font-size: 38;
+	padding-left: 60px;
+	padding-top: 6px;
+	float: left;
+}
+
+
+.up2{
+	background-color: white;
+	width: 550px;
+	height: 60px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 23px;
+	
+}
+
+  .up2 ul li{
+	  display: inline-block;
+  }
+
+  .up2 ul li a{
+	  text-decoration: none;
+	  padding: 5px 21px;
+	  font-size: 21;
+	  color: black;
+	  
+  }
+  
+  .up2 ul li a:hover{
+	  color: blue;
+	  
+  }
+  
+  
+.up3{
+	background-color: white;
+	width: 210px;
+	height: 60px;
+	float: left;
+	margin-top: 23px;
+	
+}
+   .up3 ul li{
+	  display: inline-block;
+  }  
+  
+  .up3 ul li a{
+	  text-decoration: none;
+	  padding: 1px 0px;
+	  font-size: 21;
+	  color: black;
+  }
+
+  
+  
+.close{
+	background-color: #b0bcc2;
+	width: 1270px;
+	height: 55px;
+	
+} 
+
+  .close1{
+	  
+	  width: 350px;
+	  height: 55px;
+	  float: left;
+	  
+	  
+  }
+  .close1 p{
+	  
+	  color: white;
+	  font-size:17;
+  }
+  
+  .close2{
+	  
+	  width: 350px;
+	  height: 55px;
+	  float: left;
+	  margin-left: 2px;
+	  
+  }
+  
+  .close2 p{
+	  padding-left: 50px;
+	  color: white;
+	  font-size:17;
+  }
+  
+  .close3{
+	  
+	  width: 340px;
+	  height: 55px;
+	  float: left;
+	  margin-left: 2px;
+	  
+  }
+  
+  .close3 p{
+	  
+	  color: white;
+	  font-size:17;
+  }
+
+  
+  .backimg{
+	  background: url(blue-suit-jackets-hanging-1600x715.jpg) no-repeat;
+	  background-size: cover;
+	 width: 1270px;
+	 height: 534px;
+  }
+
+.down{
+	background-color: white;
+	width: 1270px;
+	height: 315px;
+	margin-top: 20px;
+}
+
+  .down1{
+	background-color: white;
+	width: 394px;
+	height: 350px;
+	margin-left: 20px;
+	float: left;
+	
+}
+
+   .down2{
+	background-color: white;
+	width: 394px;
+	height: 350px;
+	margin-left: 20px;
+	float: left;
+	
+}
+
+    .down3{
+	background-color: white;
+	width: 394px;
+	height: 350px;
+	margin-left: 20px;
+	float: left;
+	
+}
+
+.down11{
+	
+	width: 394px;
+	height: 100px;
+	margin-top: 15px;
+}
+.down11 img{
+	padding-left: 120px;
+	padding-top: 40px;
+}
+
+.down12{
+	
+	width: 394px;
+	height: 180px;
+	margin-top: 10px;
+	
+}
+
+  .down12 h1{
+	  padding-left: 80px;
+	  color: black;
+  }
+  
+  .down12 p{
+	  padding-left: 10px;
+	  font-size: 21;
+	  color: black;
+  }
+
+.down21{
+	
+	width: 394px;
+	height: 100px;
+	margin-top: 15px;
+}
+  .down21 img{
+	padding-left: 135px;
+	padding-top: 15px;
+}
+.down22{
+	background-color: white;
+	width: 394px;
+	height: 180px;
+	margin-top: 10px;
+	
+}
+
+    .down22 h1{
+	  padding-left: 80px;
+	  color: black;
+  }
+  
+  .down22 p{
+	  padding-left: 10px;
+	  font-size: 21;
+	  color: black;
+  }
+
+
+.down31{
+	
+	width: 394px;
+	height: 100px;
+	margin-top: 15px;
+}
+  .down31 img{
+	padding-left: 125px;
+	padding-top: 6px;
+}
+.down32{
+	background-color: white;
+	width: 394px;
+	height: 180px;
+	margin-top: 10px;
+	
+}
+
+   .down32 h1{
+	  padding-left: 80px;
+	  color: black;
+  }
+  
+  .down32 p{
+	  padding-left: 10px;
+	  font-size: 21;
+	  color: black;
+  }
+
+
+
+  
+  
+.la{
+	
+	width: 450px;
+	height: 200px;
+	margin-top: 40px;
+	margin-left: 410px;
+}
+  .la h1{
+	  display: inline-block;
+	  font-size: 65;
+	  color: black;
+  }
+  
+  
+  
+.pro{
+	background-color: white;
+	width: 1225px;
+	height: 450px;
+	margin-left: 20px;
+	 
+}
+
+    .pro1{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+	
+}
+    .pro1 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.pro1 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.pro1 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+
+      .pro2{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 18px;
+}
+   .pro2 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.pro2 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.pro2 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+
+      .pro3{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+}
+   .pro3 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.pro3 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.pro3 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+      .pro4{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+}
+   .pro4 img{
+		width: 280px;
+		height: 350px;
+	}
+     
+	 .pro4 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.pro4 h2{
+		color: black;
+		padding-left: 100px;
+	}
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	......
+	
+	
+	.pro{
+	
+	width: 1225px;
+	height: 450px;
+	margin-left: 60px;
+	 
+}
+
+    .proo1{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+	
+}
+    .proo1 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.proo1 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.proo1 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+
+      .proo2{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 18px;
+}
+   .proo2 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.proo2 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.proo2 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+
+      .proo3{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+}
+   .proo3 img{
+		width: 280px;
+		height: 350px;
+	}
+	
+	.proo3 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.proo3 h2{
+		color: black;
+		padding-left: 100px;
+	}
+
+      .proo4{
+	
+	width: 280px;
+	height: 450px;
+	float: left;
+	margin-left: 20px;
+}
+   .proo4 img{
+		width: 280px;
+		height: 350px;
+	}
+     
+	 .proo4 h3{
+		color: #727472;
+		padding-left: 40px;
+	}
+	
+	.proo4 h2{
+		color: black;
+		padding-left: 100px;
+	}
+  
+	
+
+.cro{
+	background-color: #262626;
+	width: 1270;
+	height: 200px;
+	margin-top: 20px;
+}
+
+.cro1{
+	
+	width: 400;
+	height: 200px;
+	margin-left: 300px;
+	float: left;
+}
+
+   .cro1 h1{
+	   color: white;
+   }
+   .cro1 p{
+	   color: white;
+   }
+
+.cro2{
+	
+	width: 400;
+	height: 200px;
+	margin-left: 100px;
+	float: left;
+}
+
+  .cro2 h1{
+	   color: white;
+   }
+   .cro2 p{
+   
+	   color: white;
+   }
+.drop{
+	background-color: #222121;
+	width: 920px;
+	height: 40px;
+	
+}
+.drop{
+	color: white;
+	padding-left: 350px;
+	padding-top: 1px;
+	display: inline-block;
+}
